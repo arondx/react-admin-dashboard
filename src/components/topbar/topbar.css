@@ -1,0 +1,12 @@
+.topbar {
+    min-height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.topbar__logo {
+    padding-inline: 1rem;
+}
